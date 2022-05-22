@@ -1,5 +1,5 @@
 # Mobile-Euro-Converter
-A currency converter application. Created with React Native for a mobile programming course.
+A currency converter application. Created with React Native for a mobile app development course.
 
 The app has been published to Expo, and can be tried with the QR code found through the link below:
 
